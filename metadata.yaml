@@ -1,0 +1,30 @@
+_repo: Bezette-stad_31978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ostaijen, Paul van
+    aliases:
+    - Ostayen, Paul van
+    - Van Ostayen, Paul
+    birthdate: 1896
+    deathdate: 1928
+    gutenberg_agent_id: '35588'
+    url: http://www.gutenberg.org/2009/agents/35588
+description: ''
+gutenberg_issued: '2010-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31978'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brussels (Belgium) -- History -- German occupation, 1914-1918 -- Poetry'
+- !lcsh 'Letter-pictures'
+- !lcc 'PT'
+title: Bezette stad
+url: http://www.gutenberg.org/ebooks/31978
